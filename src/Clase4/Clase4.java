@@ -1,6 +1,12 @@
 package Clase4;
 //Palabra package: Nos indica que esta java class proviene de Clase4
 
+import javax.swing.JOptionPane;
+
+
+//import javax.swing.JOptionPane;
+
+
 public class Clase4 {
   /*
  public: es una palabra reservada que determina un modificador de acceso, el cual nos va a permitir 
@@ -48,6 +54,51 @@ public class Clase4 {
         boolean: true o false
         
         */
+        
+        /*
+        Integer numeroo = 5;
+        
+        int numero = 6;
+        
+        String texto = "Hola Mundo";
+        */
+        
+        /*
+        Operación de concatenación
+        
+        int anio = 2023;
+        
+        String egreso = "Me egreso del curso de java en el año  " + anio;
+        
+        JOptionPane.showMessageDialog(null, egreso);
+        */
+        
+        /*Operación de resta
+        
+        
+        int numeroMayor = 10;
+        
+        int numeroMenor =  5;
+        
+        int resta = numeroMenor - numeroMayor;
+        
+        System.out.println(resta);
+        */
+        
+        /*
+        int numero = 10;
+        
+        int numeroDos = 0;
+        
+        int dividir = numero / numeroDos;
+        
+        System.out.println(dividir);
+        */
+        
+        //Declarar en tu java class y minimo de 3 variables diferentes, generar una operación y mostrar
+        //con JOptionPane
+        
+        
         
         
     
